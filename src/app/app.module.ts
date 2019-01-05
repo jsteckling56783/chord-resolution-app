@@ -1,12 +1,15 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { JsonPipe } from '@angular/common/src/pipes';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { CurveComponent } from './curve/curve.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    CurveComponent
   ],
   imports: [
     BrowserModule,

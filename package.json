@@ -20,8 +20,13 @@
     "@angular/platform-browser": "~7.0.0",
     "@angular/platform-browser-dynamic": "~7.0.0",
     "@angular/router": "~7.0.0",
+    "JSON": "^1.0.0",
+    "Math": "0.0.1-security",
+    "angular-common": "^0.1.0",
     "core-js": "^2.5.4",
+    "mathjs": "^5.4.0",
     "rxjs": "~6.3.3",
+    "svg": "^0.1.0",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
