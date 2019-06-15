@@ -1,5 +1,7 @@
 # ChordResolution
 
+A visualization tool to display relationships between tones, where more dissonant chords and intervals create more visually clashing displays
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
 
 ## Development server
