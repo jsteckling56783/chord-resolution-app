@@ -24,7 +24,7 @@
     "Math": "0.0.1-security",
     "angular-common": "^0.1.0",
     "core-js": "^2.5.4",
-    "mathjs": "^5.4.0",
+    "mathjs": "^7.5.1",
     "rxjs": "~6.3.3",
     "svg": "^0.1.0",
     "zone.js": "~0.8.26"
